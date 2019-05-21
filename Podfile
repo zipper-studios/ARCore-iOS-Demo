@@ -6,7 +6,7 @@ target 'ARCoreTutorial' do
   use_frameworks!
 
   # Pods for ARCoreTutorial
-  #pod 'ARCore'
+  pod 'ARCore'
   pod 'Firebase/Core'
   pod 'Firebase/Database'
   
