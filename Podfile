@@ -7,7 +7,7 @@ target 'ARCoreTutorial' do
 
   # Pods for ARCoreTutorial
   #pod 'ARCore'
-  #pod 'Firebase/Core'
+  pod 'Firebase/Core'
   pod 'Firebase/Database'
   
 end
