@@ -1,0 +1,6 @@
+framework module Pods_ARCoreTutorial {
+  umbrella header "Pods-ARCoreTutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}
